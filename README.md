@@ -1,7 +1,7 @@
-### Hello there, i'm Jean 26 years old junior web developer 👋 👨‍💻.
+### Hi there, I'm Jean 👋 👨‍💻.
 
-Learner at BeCode webdev training in Brussels(Belgium).
+I'm a junior web developer currently improving my coding skills at the 10-months [BeCode webdev training](https://becode.org/learn/junior-web-developer/) in Brussels (Belgium).
 
-My strengths are JS/React and PHP/Laravel 
+My current strengths are JS/React & PHP/Laravel and I'm learning Python/Django and Node.js
 
-I'm also passionate about three.js and I love to learn new things every day 🤘.
+I'm also passionate about three.js and love to learn new things every day in a general fashion 🤘.
