@@ -6,4 +6,4 @@ My current strengths are JS/React & PHP/Laravel and I'm learning Python/Django a
 
 I'm also passionate about three.js and love to learn new things every day in a general fashion 🤘.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFabry)](https://github.com/anuraghazra/github-readme-stats)
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFabry)
