@@ -2,7 +2,7 @@
 
 I'm a junior web developer currently improving my coding skills at the 10-months [BeCode webdev training](https://becode.org/learn/junior-web-developer/) in Brussels (Belgium).
 
-My current strengths are JS/React & PHP/Laravel and I'm learning Python/Django and Node.js
+My current strengths are JS/React & PHP/Laravel and I'm learning Node.js and Express.js
 
 I'm also passionate about three.js and love to learn new things every day in a general fashion 🤘.
 
