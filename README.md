@@ -1,6 +1,6 @@
 ### Hi there, I'm Jean 👋 👨‍💻.
 
-I'm a software developer currently working as a consultant @Leroy&Partners, in Brussels, Belgium. I'ostly working with Flutter/Dart, React.js/Javascript and .Net core/C#.
+I'm a software developer currently working @Synapsis-Group, in Brussels, Belgium. I'ostly working with Flutter/Dart, React.js/Javascript and .Net core/C#.
 
 I love to learn about new technologies in a general fashion 🤘. Feel free to get in touch ! 
 
