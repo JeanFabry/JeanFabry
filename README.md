@@ -1,9 +1,10 @@
 ### Hi there, I'm Jean 👋 👨‍💻.
 
-I'm a web developer working at [Synapsis Group](https://www.synapsis-group.com/). 
+I'm a software developer currently working as a consultant @Leroy&Partners, in Brussels, Belgium. I'ostly working with Flutter/Dart, React.js/Javascript and .Net core/C#.
 
-My current strengths are JS/React, and I also have experience with C#/Dotnet, Arcgis/Esri API, D3.js, Gatsby, node/express.js, etc.
+I love to learn about new technologies in a general fashion 🤘. Feel free to get in touch ! 
 
-I love to learn about new technologies in a general fashion 🤘.
+Cheers !
 
-[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFabry&count_private=true&show_icons=true&icon_color=388afc&bg_color=ffffff&title_color=388afc&text_color=#737373)](https://github.com/JeanFabry)
+<!-- [![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFabry&count_private=true&show_icons=true&icon_color=388afc&bg_color=ffffff&title_color=388afc&text_color=#737373)](https://github.com/JeanFabry)
+ -->
