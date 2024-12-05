@@ -1,6 +1,6 @@
 ### Hi there, I'm Jean 👋 👨‍💻.
 
-I'm a software developer currently working @Capyx, in Brussels, Belgium. I'm mostly working with Flutter/Dart, .Net core/C# and React.js/Javascript.
+I'm a software developer currently working @Capyx, in Brussels, Belgium. I'm mostly working with Flutter/Dart, .Net/C# and React.js/Javascript.
 
 I love to learn about new technologies in a general fashion 🤘. Feel free to get in touch ! 
 
